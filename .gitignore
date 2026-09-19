@@ -1,6 +1,5 @@
 # Build output do Java
-target/
-*.class
+out/
 
 # IntelliJ IDEA
 .idea/
