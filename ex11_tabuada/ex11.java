@@ -10,7 +10,7 @@ public class ex11 {
                 int resultado = i*j;
                 System.out.println(i+" x "+j+" = "+resultado);
             }
-            System.out.println("");
+            System.out.println(" ");
         }
 
     }
