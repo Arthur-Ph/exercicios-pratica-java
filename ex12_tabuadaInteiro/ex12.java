@@ -1,8 +1,8 @@
-package ex11_tabuada;
+package ex12_tabuadaInteiro;
 
 import java.util.Scanner;
 
-public class ex11 {
+public class ex12 {
     static void main() {
 //        Faça um algoritmo que imprima na tela a tabuada (1 a 10) de qualquer valor inteiro.
 
